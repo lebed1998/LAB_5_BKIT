@@ -1,0 +1,26 @@
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\bin\Debug\Laba4.exe
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\obj\x86\Debug\Laba4.Form1.resources
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\obj\x86\Debug\Laba4.Properties.Resources.resources
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\obj\x86\Debug\Laba4.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\obj\x86\Debug\Laba4.exe
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\obj\x86\Debug\Laba4.pdb
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba4\Laba4\obj\x86\Debug\Laba4.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\obj\x86\Debug\Laba4.exe
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\obj\x86\Debug\Laba4.pdb
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\obj\x86\Debug\Laba4.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\obj\x86\Debug\Laba4.Form1.resources
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\obj\x86\Debug\Laba4.Properties.Resources.resources
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\obj\x86\Debug\Laba4.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\bin\Debug\Laba4.exe
+C:\Users\Asus\Desktop\Учебный процесс\Баз комп\Laba_4\Laba4\bin\Debug\Laba4.pdb
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba_4\Laba4\obj\x86\Debug\Laba4.exe
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba_4\Laba4\obj\x86\Debug\Laba4.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba_4\Laba4\obj\x86\Debug\Laba4.Form1.resources
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba_4\Laba4\obj\x86\Debug\Laba4.Properties.Resources.resources
+C:\Users\1\Desktop\КПИ\Arkhiv\Laba_4\Laba4\obj\x86\Debug\Laba4.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\КПИ\LAB_4_2017\LABA_4\Laba4\obj\x86\Debug\Laba4.exe
+C:\Users\1\Desktop\КПИ\LAB_4_2017\LABA_4\Laba4\obj\x86\Debug\Laba4.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\КПИ\LAB_4_2017\LABA_4\Laba4\obj\x86\Debug\Laba4.Form1.resources
+C:\Users\1\Desktop\КПИ\LAB_4_2017\LABA_4\Laba4\obj\x86\Debug\Laba4.Properties.Resources.resources
+C:\Users\1\Desktop\КПИ\LAB_4_2017\LABA_4\Laba4\obj\x86\Debug\Laba4.csproj.GenerateResource.Cache
